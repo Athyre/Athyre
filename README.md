@@ -1,4 +1,4 @@
-# Hi, I'm Nathasa 👋
+# Athyre here 👋
 
 I'm a Computer Science student with a growing passion for Cyber Security and a curiosity for understanding how systems work and break.
 
